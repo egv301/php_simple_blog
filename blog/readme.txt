@@ -1,4 +1,6 @@
-База данных
+To run:
 
-Пользователь: root
-Пароль:       ""
+1.Create database table 'blog'
+2.Username = 'root'
+3.Password = ''
+
